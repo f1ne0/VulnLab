@@ -1,6 +1,6 @@
-# VulnLab Diploma Platform
+# VulnLab Individual Project Platform
 
-VulnLab is a browser-only educational security research platform created for the diploma topic:
+VulnLab is a browser-only educational security research platform created for the individual project topic:
 
 > Анализ и моделирование уязвимостей веб‑приложений с оценкой правовых последствий их эксплуатации
 
@@ -14,7 +14,7 @@ VulnLab is a browser-only educational security research platform created for the
 
 ## Academic Context
 
-- The platform is designed as a diploma-grade research instrument combining:
+- The platform is designed as an individual research project combining:
   - technical modeling of web vulnerabilities;
   - comparative legal analysis;
   - threat modeling using STRIDE, attack trees, risk matrix, and DREAD;
